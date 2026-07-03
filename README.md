@@ -1,8 +1,6 @@
 # SIMKOM
 Berikut adalah codingan simkom dari kelompok kami
 
-# SIMKOM
-
 Sistem Informasi Komunikasi (SIMKOM) adalah project berbasis web yang dikembangkan untuk mendukung proses komunikasi, manajemen data, dan kolaborasi tim.
 
 ## 📌 Fitur Utama
